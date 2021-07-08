@@ -1,0 +1,17 @@
+1.How has your knowledge of the tech field changed since class began?
+
+When I first started, I had no idea how many different tech positions there were in this field. I came in with the goal of just becoming a WebDev, but then gained interest over other languages as well. I am still pursuing WebDev, but I am confident I will be studying the other languages on my own upon completion of the course. I would like to know more about SQL and Data Science so that is something I will be researching.
+2.What was the most difficult part of Foundations for you? And how did you overcome that?
+
+The most difficult part so far has been the technical difficulties when following along during lecture. It could be anything from a typo, to certain installs not working, and then I tend to fall behind as I am trying to troubleshoot the issue rather than paying attention. Over time, I have learned to just keep coding along and then fix the problem after the lecture is done.
+3.Did you learn anything about the way you learn? What was it?
+
+Originally, I was writing down everything but I soon realized that took way too much time and I was not a fast writer. I fell behind a few times at first, not realizing that there were handouts on Frodo that I could download and review. Once I realized that, I was golden as I could study the material after lecture if I needed.
+4.How will you apply what you know about your learning style during Specializations?
+I will pay more attention to the actual lecture instead of trying to write things down as I know I should be able to review the handouts after. Granted, that is if the structure is the same in Specializations where there are handouts of the lecture of the day.
+5.What was your experience with pair programming like?
+
+Pair programming has been my favorite thing about the course so far. I could not stress enough how important it is to have a second set of eyes there with you as you are working. Not only do you fix your mistakes faster, but you also develop a comraderie with your fellow peers in your cohort. Please continue to keep this as a staple feature of the program.
+6.What parts of Foundations did you enjoy the most? (This could be anything from a specific lab or lecture to the general setup of class or a funny moment.)
+
+I really loved everything about Foundations. It helped me develop a base to grow upon and my instructor and mentor were amazing in helping me understand the material. I even enjoyed the morning meetings and the activities to get to know each other. I think it helped us become more comfortable and confident in asking questions if we had any.
